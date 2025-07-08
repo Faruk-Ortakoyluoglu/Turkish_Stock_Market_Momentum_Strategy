@@ -14,4 +14,4 @@ Features
 - Upper Limit Filter: Flags when a stock has reached a 9.5% intraday increase (potential limit-up).
 - Interactive Visualization: Uses Plotly to generate candlestick charts with overlays for indicators and buy markers.
  
-- **Backtesting & Reporting**: A Jupyter notebook `backtest.ipynb` demonstrates historical strategy performance and includes a QuantStats report boasting a **Sharpe ratio of 4.2**.
+- **Backtesting & Reporting**: A Jupyter notebook `backtest.ipynb` demonstrates historical strategy performance and includes a QuantStats report boasting a #**Sharpe ratio of 4.2**.
