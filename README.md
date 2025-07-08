@@ -3,7 +3,7 @@ Trading Signal Scanner and Visualization
 This Python project analyzes and visualizes stock data for the BIST 500 index, computes technical indicators, draws interactive charts, and scans for buy signals for the next trading day.
 
 Features
-	•	Data Loading: Reads historical CSV files for each ticker under ./data/.
+	- Data Loading: Reads historical CSV files for each ticker under ./data/.
 	•	Technical Indicators:
 	•	RSI (14-period)
 	•	MACD, Signal Line, and Histogram
